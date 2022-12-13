@@ -7,3 +7,14 @@ O programa lê inteiros de são digitados pelo usuário (inteiros entre
 + Ou tenha instalado G++
 > <h2>Download</h2>
 + Baixe o projeto <a id="raw-url" href="https://github.com/zOlavoPYT/TR10_537793/archive/refs/heads/main.zip">aqui</a>
+> <h2>Instalação</h2>
++ Abra o terminal onde se encontra o projeto e digite:
+```
+gcc main.c -o nome_do_programa
+```
++ Vai criar um executável
+> <h2>Executando</h2>
++ Abra o terminal onde se encontra o executável e altere o nome do programa digitando:
+```
+./nome_do_programa
+```
