@@ -6,4 +6,4 @@ O programa lê inteiros de são digitados pelo usuário (inteiros entre
 + Tenha instalado o GCC
 + Ou tenha instalado G++
 > <h2>Download</h2>
-+ Baixe o projeto <a id="raw-url" href="https://github.com/zOlavoPYT/TR10_537793/releases/latest/download/package.zip">aqui</a>
++ Baixe o projeto <a id="raw-url" href="https://github.com/zOlavoPYT/TR10_537793/archive/refs/heads/main.zip">aqui</a>
